@@ -1,0 +1,5 @@
+Sources:
+
+CR10/Ender 3 Extruder Chain with Filament Runout Mount (https://www.thingiverse.com/thing:3413677)
+Ender 3 Cable Chain Extruder Mount (http://www.thingiverse.com/thing:3244681)
+CR-10 EZOut Filament Sensor Clip on Mount (http://www.thingiverse.com/thing:2966008)
